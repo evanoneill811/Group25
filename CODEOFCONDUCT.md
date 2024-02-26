@@ -93,6 +93,23 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or permanent
 ban.
 
+## Decisions
+
+Group will come to consesus for decisions
+
+## Attendance
+
+Missing members from meetings will go to SCRUM master for recap according to meeting notes
+
+## Meetings and Location
+
+Meetings will take place at 1230 on Thursdays after 305 class. Location is fluid at the moment.
+
+## Agenda and Minutes notes
+
+SCRUM master will take notes of every meeting
+
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
