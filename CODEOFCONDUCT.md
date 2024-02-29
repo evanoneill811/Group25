@@ -93,6 +93,9 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or permanent
 ban.
 
+## Phone Policy
+No phones will be in use in class except for academic purposes.
+
 ## Decisions
 
 Group will come to consesus for decisions
